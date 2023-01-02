@@ -1,0 +1,16 @@
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\bin\Debug\net5.0\C#_practice.exe
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\bin\Debug\net5.0\C#_practice.deps.json
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\bin\Debug\net5.0\C#_practice.runtimeconfig.json
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\bin\Debug\net5.0\C#_practice.runtimeconfig.dev.json
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\bin\Debug\net5.0\C#_practice.dll
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\bin\Debug\net5.0\C#_practice.pdb
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\obj\Debug\net5.0\C#_practice.csproj.AssemblyReference.cache
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\obj\Debug\net5.0\C#_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\obj\Debug\net5.0\C#_practice.AssemblyInfoInputs.cache
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\obj\Debug\net5.0\C#_practice.AssemblyInfo.cs
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\obj\Debug\net5.0\C#_practice.csproj.CoreCompileInputs.cache
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\obj\Debug\net5.0\C#_practice.dll
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\obj\Debug\net5.0\refint\C#_practice.dll
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\obj\Debug\net5.0\C#_practice.pdb
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\obj\Debug\net5.0\C#_practice.genruntimeconfig.cache
+C:\Users\Rashy\Desktop\c#_projects\C#_practice\obj\Debug\net5.0\ref\C#_practice.dll
