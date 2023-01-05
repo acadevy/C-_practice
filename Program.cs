@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace C__practice
 {
@@ -6,12 +7,24 @@ namespace C__practice
     {
         static void Main(string[] args)
         {
-          Console.WriteLine("Enter your first number");
-          int num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter your second number");
-            int num2 = Convert.ToInt32(Console.ReadLine());
-            int sum = num1 + num2;
-            Console.WriteLine($"The sum is: {sum}");
+            string[,] grid1 = new[,]{
+                {"Rasheed","Yusuf","Femi"},
+                {"Tope","Adeola","Tunde"},
+                {"Adeniji","oluwafemi","suliyat"}
+            };
+
+            Console.WriteLine($"Lower bound of the first dimension is: {grid1.GetLowerBound(0)}");
+            Console.WriteLine($"Upper bound of the first dimension is: {grid1.GetUpperBound(0)}");
+            Console.WriteLine($"Lower bound of the second dimension is: {grid1.GetLowerBound(1)}");
+            Console.WriteLine($"Upper bound of the second dimension is: {grid1.GetUpperBound(1)}");
+
         }
-    }
+          
+        }
+        
+         
+
+
 }
+
+
