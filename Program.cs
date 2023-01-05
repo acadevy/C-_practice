@@ -18,6 +18,12 @@ namespace C__practice
             Console.WriteLine($"Lower bound of the second dimension is: {grid1.GetLowerBound(1)}");
             Console.WriteLine($"Upper bound of the second dimension is: {grid1.GetUpperBound(1)}");
 
+
+            for(int row = 0; row<=grid1.GetUpperBound(0);row++){
+                for(int col = 0; col <= grid1.GetUpperBound(1); col++){
+                    Console.WriteLine($"Row {row}, Column {col}: {grid1[row, col]}");
+                }
+            }
         }
           
         }
